@@ -21,5 +21,5 @@ jobs:
         with:
           publish_branch: github-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _build/
+          publish_dir: _build/source/
           force_orphan: true

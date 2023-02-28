@@ -9,11 +9,8 @@ Welcome to hybrid-chatbot's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   .. add introduction here
 
-   introduction
-
-Indices and tables
+   introduction.md
 
 
 ===================

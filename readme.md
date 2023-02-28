@@ -1,6 +1,6 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
-
-# Hybrid chatbot 
+![example workflow](https://github.com/michalskibinski109/hybrid_chatbot/actions/workflows/docs.yaml/badge.svg)
+# Hybrid chatbot
 
 ## Documentation
 

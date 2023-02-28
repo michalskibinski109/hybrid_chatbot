@@ -8,13 +8,21 @@ Welcome to hybrid-chatbot's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+
 
    introduction.md
 
 
 ===================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Project scope
+=============
+This project aims to provide a simple and easy to use hybrid-chatbot application.
+
+Team
+====
+* Michał Skibiński
+* Daniel Polok
+* Damian Zawolski
+* Alicja Dąbrowska
